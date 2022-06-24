@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrackerUI": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\C#\\TrackerLibrary\\TournamentTracker\\TrackerUI"
+    }
+  }
+}
